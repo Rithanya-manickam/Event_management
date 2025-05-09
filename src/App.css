@@ -1,0 +1,17 @@
+.register-link {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #A9A9A9;
+}
+
+.register-link span {
+  color: #FCA311;
+  cursor: pointer;
+}
+
+.register-link span:hover {
+  text-decoration: underline;
+}
+
+/* List styles */
